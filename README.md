@@ -11,6 +11,8 @@ The dataset consists of 85 columns and 91,713 entries, representing patient reco
 **Data Preprocessing:**
 Missing Values: Several columns have missing values, which were handled using imputation techniques such as mean or median imputation.
 Categorical Encoding: Categorical variables were encoded using techniques like one-hot encoding to make them suitable for machine learning algorithms.
+
+
 **Exploratory Data Analysis (EDA):**
 Univariate Analysis: Analyzed distributions and summary statistics of individual variables.
 Bivariate Analysis: Explored relationships between variables, particularly focusing on their correlation with hospital mortality.
