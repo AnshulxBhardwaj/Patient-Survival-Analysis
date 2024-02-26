@@ -2,7 +2,7 @@
 The project aims to analyze a dataset from a healthcare scenario to predict hospital mortality. The dataset contains various patient attributes such as demographics, medical history, vital signs, and outcomes. The prediction of hospital mortality is crucial for healthcare providers to allocate resources efficiently and improve patient care.
 
 **Dataset Description:**
-The dataset consists of 85 columns and 91,713 entries, representing patient records. Each row corresponds to a unique patient encounter. Key features include:
+The dataset consists of 85 columns and 91,713 entries, representing patient records. Each row corresponds to a unique patient encounter https://www.kaggle.com/datasets/mitishaagarwal/patient . Key features include:
 
 **Demographic Information:** Age, gender, ethnicity, etc.
 **Clinical Parameters:** BMI, vital signs (e.g., heart rate, blood pressure), medical history (e.g., diabetes, cirrhosis).
